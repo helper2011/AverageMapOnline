@@ -9,10 +9,10 @@ int Clients, Online, Count, Time, CD, CommandCoolDown;
 
 public Plugin myinfo = 
 {
-    name = "AvgMapOnline",
-    version = "1.0",
+	name = "AvgMapOnline",
+	version = "1.0",
 	description = "Counts average online on maps",
-    author = "hEl",
+	author = "hEl",
 	url = ""
 };
 
